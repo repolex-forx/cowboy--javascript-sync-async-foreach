@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cowboy/javascript-sync-async-foreach/commit/148e7fcdd3af583d7446e1fa19cab6dd5d8a200d",
       "git:hexsha": "148e7fcdd3af583d7446e1fa19cab6dd5d8a200d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.3"
     },
     {
