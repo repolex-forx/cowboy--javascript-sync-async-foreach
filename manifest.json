@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "cowboy",
+  "repo": "javascript-sync-async-foreach",
+  "versions": [
+    {
+      "commit": "148e7fcdd3af583d7446e1fa19cab6dd5d8a200d",
+      "parsed_at": "2026-11-10T02:20:14.821703+00:00",
+      "tag": "v0.1.3",
+      "filetree": "filetree/148e7fcdd3af583d7446e1fa19cab6dd5d8a200d.nq.gz",
+      "blobs": [
+        "blob/be18c43acf82f5274ba54cca2e7041fb48a6e048.nq.gz",
+        "blob/7505716bca543d326cd00089959ed597d4aaf8fa.nq.gz",
+        "blob/079a23afd1c61a33ebadfd73050397dd097ee22f.nq.gz",
+        "blob/64c6eb8ffd969bb71440592d5bf84ac87ff2bbbc.nq.gz",
+        "blob/f574204978cb1a78ffd3c3f24f70925f4f860edc.nq.gz",
+        "blob/9ee98b00180fd1378aa63b61cda7bbd60d3c815e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
